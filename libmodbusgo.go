@@ -1,4 +1,4 @@
-package kalibratorgo
+package libmodbusgo
 
 /*
 	binding to libmodbus
